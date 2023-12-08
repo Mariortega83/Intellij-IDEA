@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pr22-MOP:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pr22_MOP_jar2</output-path>
+    <root id="archive" name="Pr22-MOP.jar">
+      <element id="module-output" name="Pr22-MOP" />
+    </root>
+  </artifact>
+</component>
